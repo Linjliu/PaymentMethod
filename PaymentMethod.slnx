@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PaymentMethod/PaymentMethod.vcxproj" Id="2a7d6553-d785-4402-a958-fc8d7f870a1e" />
+</Solution>
